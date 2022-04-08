@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://44.202.149.128:8081/repository/eBay-release/</url>
+	      <url>http://52.91.45.51:8081/repository/omo-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.202.149.128:8081/repository/eBay-snapshot/</url>
+	      <url>http://52.91.45.51:8081/repository/omo-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
